@@ -1,5 +1,8 @@
 # Hallmark
 
+> **DeepSeek / DSH fork.** This fork is adapted to run with **DeepSeek Harness (DSH)** and DeepSeek models. The design rules are model-agnostic Markdown; the only DeepSeek-specific addition is `scripts/install_dsh.sh`. Install it and ask your DeepSeek agent to use Hallmark by name.
+
+
 **A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated.**
 
 [usehallmark.com](https://www.usehallmark.com) &nbsp;·&nbsp; fifty themes &nbsp;·&nbsp; custom on request &nbsp;·&nbsp; redesign and audit by name
